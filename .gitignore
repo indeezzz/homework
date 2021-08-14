@@ -7,8 +7,6 @@
 *.cache
 *.json
 *.targets
-/Lesson_4/Lesson_4/obj
-/Lesson_5/.vs/Lesson_5/v16
 *.dll
 *.props
 *.v2
