@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Linq;
+/*
+ * Ilya Shorokhov. Спираль
+ */
 
 namespace Lesson_8
 {
